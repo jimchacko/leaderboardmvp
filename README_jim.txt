@@ -1,3 +1,21 @@
+Please copy LeaderBoardMVP.mdb to C:\ folder
+
+The project is developed using Asp.net and MSAccess as database
+By default  an admin user is created.
+Username :Admin 
+Password: admin
+
+Admin user are Referees. They can add competitors and can update the score for Head to Head Contest .
+Graphical display will give the current standing of the competitors
+
+If a person want to see the leaderbord , they can login using 
+Username :Guest 
+Password: guest
+
+
+
+
+
 # Leaderboard MVP
 
 The purpose of this excercise is for you to create a pull request containing your proposal to solve the below Leaderboard Scenario as an MVP. The only requirement is that you demonstrate your skills using the technology stack commensurate to the position you applied for at Sisu Wellness. You should also include any assumptions you made and the rationale, as well as any scoping questions you feel would be necessary to properly complete the objective.
